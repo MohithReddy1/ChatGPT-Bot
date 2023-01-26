@@ -1,1 +1,3 @@
-# Build and Deploy Your Own ChatGPT AI Application That Will Help You Code.
+# ChatGPT-Bot
+
+Build and Deploy Your Own ChatGPT AI Application That Will Help You Code.
